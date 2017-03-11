@@ -17,7 +17,6 @@ class Pets {
         }
     }
 }
-
 class Animal {
     private int weight;
     private int legs;
